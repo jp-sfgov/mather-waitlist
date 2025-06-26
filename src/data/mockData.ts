@@ -2706,12 +2706,12 @@ export const mockWaitlistData: WaitlistEntry[] = [
     weekRequests: [
       { week: "6/8-6/14", cabinSizes: ["6PC"] },
       { week: "8/3-8/9", cabinSizes: ["6PC"] },
-      { week: "8/10-8/16", cabinSizes: ["6PC"] }
+      { week: "8/10-8/16", cabinS izes: ["6PC"] }
     ]
   },
   {
     waitlistNumber: 750,
-    week Requests: [
+    weekRequests: [
       { week: "6/22-6/28", cabinSizes: ["5PC", "4PC"] },
       { week: "6/29-7/5", cabinSizes: ["5PC", "4PC"] },
       { week: "7/6-7/12", cabinSizes: ["5PC", "4PC"] }
